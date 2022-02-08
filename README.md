@@ -12,10 +12,10 @@ You can select file by GUI!
 - openpyxl 3.0.9
 
 # Installation
----bash
+```bash
 git clone https://github.com/Cicely-s/xlsx_to_json.git
 pip install -r requirements.txt
----
+```
 
 # Usage
 ```bash
