@@ -18,14 +18,14 @@ pip install -r requirements.txt
 ---
 
 # Usage
----bash
+```bash
 cd xlsx_to_json
 python main.py
----
+```
 
 # Note
 The program convert Django fixture file below.
----fixture.json
+```fixture.json
 [
     {
         "models": "SheetName",
@@ -62,7 +62,7 @@ The program convert Django fixture file below.
         }
     }
 ]
----
+```
 
 # Author
 - Cicely-s
